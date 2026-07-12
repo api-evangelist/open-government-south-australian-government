@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://data.sa.gov.au/
 common:
+  - type: DomainSecurity
+    url: security/open-government-south-australian-government-domain-security.yml
   - type: Website
     url: https://data.sa.gov.au/
   - type: PublicAPIsListing
