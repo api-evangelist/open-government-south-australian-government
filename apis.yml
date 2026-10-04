@@ -39,7 +39,6 @@ apis:
   - name: Open Government, South Australian Government
     description: "South Australian Government Open Data"
     humanURL: https://data.sa.gov.au/
-    baseURL: https://data.sa.gov.au/
     tags:
       - Government
     properties:
